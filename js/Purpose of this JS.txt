@@ -1,0 +1,1 @@
+Purpose of this js to add details in the application and make it more professional
